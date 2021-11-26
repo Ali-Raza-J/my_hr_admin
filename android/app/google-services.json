@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318300685401",
+    "project_id": "hr-admin-9ec4b",
+    "storage_bucket": "hr-admin-9ec4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318300685401:android:8c7cf4e6256f9bead6dd48",
+        "android_client_info": {
+          "package_name": "com.example.hr_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318300685401-6e2e6kk4cm2sm6st9kkling75gaukk9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hr_admin",
+            "certificate_hash": "5a309d982057c75006fd1daadcdbcd94d3c2226c"
+          }
+        },
+        {
+          "client_id": "318300685401-oh20854ka7102ee49jk1kk4qott90sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbs5P7XGuJAbrCwxxSFRQrTaYTvbKflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318300685401-oh20854ka7102ee49jk1kk4qott90sng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
